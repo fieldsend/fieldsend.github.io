@@ -13,17 +13,17 @@ My research interests and that of my research group span heuristic optimisation 
 
 I currently teach on COMM510 Multi-Objective Optimisation and Decision Making (a masters level module) and supervise undergraduate and postgraduate research students. I have taught previously on a wide range of modules including:
 
-## Stage 1
+### Stage 1
 - Social and Professional Issues
 - Object Oriented Programming
 - Data Structures and Algorithms
 
-## Stage 2
+### Stage 2
 - Software Development
 - Software Engineering
 - Outside The Box: Computer Science Research And Applications
 
-## Stage 4
+### Stage 4
 Group Research Project
 
 # Administrative and Professional Activities
