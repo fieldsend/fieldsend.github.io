@@ -7,7 +7,7 @@ I am a Professor in Computational Intelligence at the University of Exeter (base
 
 # Research
 
-My research interests and that of my reserach group span heuristic optimisation and machine learning. You can find various links and stats at my [google scholar page](https://scholar.google.com/citations?user=tvV_iQEAAAAJ&hl=en). 
+My research interests and that of my research group span heuristic optimisation and machine learning. You can find various links and stats at my [google scholar page](https://scholar.google.com/citations?user=tvV_iQEAAAAJ&hl=en). 
 
 # Teaching
 
