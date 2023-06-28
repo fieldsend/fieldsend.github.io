@@ -5,6 +5,10 @@ title: ""
 
 I am a Professor in Computational Intelligence at the University of Exeter (based in the South-West of the Uniked Kingdom). 
 
+Current group members include: Melike Karatas; Carina Ivascu; Goncalo Lieria; James Sakal; Greg Daly; Finley Gibson; Nicholas Sanders. Associate members: Eliza Duncan; Ben Fourcin; Tianle Zhang (Liverpool).
+
+Previous group members include: Dr Abdulaziz Almutairi; Dr Amjad Alsuwaylimi; Dr Khulood Alyahya; Silvia Candia; Dr Tinkle Chugh; Dr George De Ath; Dr Kevin Doherty; Dr Richard Fredlund; Dr Yang Liu (CSC Visiting Scholar, 2015/2016); Dr Daniel Maxwell; Jake Pitt; Dr Alma Rahat; Dr William Reckhouse; Dr Tim Seah; Prof. Choali Sun (CSC Visiting Academic Summer 2019-Summer 2020); Dr David Walker.
+
 # Research
 
 My research interests and that of my research group span heuristic optimisation and machine learning. You can find various links and stats at my [google scholar page](https://scholar.google.com/citations?user=tvV_iQEAAAAJ&hl=en). 
