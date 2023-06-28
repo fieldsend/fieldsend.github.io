@@ -1,6 +1,6 @@
 ---
-layout: pages
-title: "Blog"
+layout: page
+title: ""
 ---
 
 I am a Professor in Computational Intelligence at the University of Exeter (based in the South-West of the Uniked Kingdom). 
