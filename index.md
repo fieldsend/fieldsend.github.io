@@ -28,7 +28,8 @@ I currently teach on COMM510 Multi-Objective Optimisation and Decision Making (a
 - Outside The Box: Computer Science Research And Applications
 
 ### Stage 4
-Group Research Project
+- Group Research Project
+- Multi-Objective Optimisation and Decision Making
 
 # Administrative and Professional Activities
 
