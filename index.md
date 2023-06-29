@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-I am a Professor in Computational Intelligence at the University of Exeter (based in the South-West of the Uniked Kingdom). 
+I am a Professor in Computational Intelligence at the University of Exeter (based in the South-West of the United Kingdom). 
 
 Current group members include: Melike Karatas; Carina Ivascu; Goncalo Lieria; James Sakal; Greg Daly; Finley Gibson; Nicholas Sanders. Associate members: Eliza Duncan; Ben Fourcin; Tianle Zhang (Liverpool).
 
