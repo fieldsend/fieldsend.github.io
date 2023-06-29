@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {title: "Blog", file: "blog.md"}
-  - {title: "CV", file: "fieldsend_2page_cv.pdf"}
+  - {title: "CV", url: "fieldsend_2page_cv.pdf"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
