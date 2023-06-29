@@ -33,5 +33,5 @@ I currently teach on COMM510 Multi-Objective Optimisation and Decision Making (a
 
 # Administrative and Professional Activities
 
-I am currently the Computer Science Director of Research and Impact at the University of Exeter. I am also a fellow of the Higher Education Academy, memmber of IEEE and ACM, along with the IEEE Computational Intelligence Society and the ACM Special Interest Group on Evolutionary Computation.   
+I am the Computer Science Director of Research and Impact at the University of Exeter. I am also a fellow of the Higher Education Academy, memmber of IEEE and ACM, along with the IEEE Computational Intelligence Society and the ACM Special Interest Group on Evolutionary Computation.   
 
