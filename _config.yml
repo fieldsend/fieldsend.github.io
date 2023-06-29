@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Blog", file: "blog.md"}
+  #- {title: "Blog", file: "blog.md"}
   - {title: "CV", file: "fieldsend_2page_cv.pdf"}
 
 
