@@ -25,7 +25,7 @@ I currently teach on COMM510 Multi-Objective Optimisation and Decision Making (a
 ### Stage 2
 - Design and Method for Software Engineering
 - Frontiers of Computer Science
-- Outside The Box: Computer Science Research And Applications
+- Outside The Box: Computer Science Research and Applications
 - Software Development
 
 ### Stage 4
